@@ -70,3 +70,5 @@ erDiagram
     BOOKINGS ||--|| PAYMENTS : has
 
 ```
+
+![ER Diagram image](ERDiagram.png)
