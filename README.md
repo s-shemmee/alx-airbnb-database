@@ -31,7 +31,8 @@ By completing this project, I’ve learned to:
 ---
 
 ## 🗃 Project Structure
-```
+
+```text
 alx-airbnb-database/
 ├── ERD/
 │ └── requirements.md # ER diagram in Mermaid syntax
@@ -97,6 +98,7 @@ Inside your database console:
 ---
 
 ## 📝 What This Database Supports
+
 ✔ User management (guests, hosts, admins)
 ✔ Property listings with host details
 ✔ Booking management with status tracking
@@ -117,4 +119,4 @@ This project is part of the ALX SE curriculum, combining front-end and back-end 
 
 ---
 
-<p align="center"><em>Happy Coding!</em></p> 
+<p align="center"><em>Happy Coding!</em></p>
